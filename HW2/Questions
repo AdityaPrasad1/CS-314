@@ -1,0 +1,17 @@
+Aditya Prasad
+ap45485
+CS 314
+
+QUESTIONS:
+
+2) peanoplus
+   Invariant: peanoplus will always run y times regardless of x 
+              because the method and if-statements depend on y.
+   Big O = O(n)
+
+3) peanotimes
+   Big O = O(n)
+
+8) binomial
+   (choose 4 k) produces the 4th row in Pascal's triangle, i.e. binomial(4).
+   Simply put, (choose n k) produces the kth element from the nth row of Pascal's triangle.
